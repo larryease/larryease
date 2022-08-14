@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larryease
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML,CSS and Javascript
+- 🌱 I’m currently learning React and Blockchain Technology
 - 💞️ I’m looking to collaborate on any related project
 - 📫 How to reach me ...twitter @MakindeHephz
 
